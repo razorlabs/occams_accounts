@@ -5,6 +5,9 @@
     "font-awesome": "4.x",
     "jquery": "2.x"
   },
+  "resolutions": {
+    "jquery": "2.x"
+  },
   "devDependencies": {
     "mocha": "~2.1.0"
   },
